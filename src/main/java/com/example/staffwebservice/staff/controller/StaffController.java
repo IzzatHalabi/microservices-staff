@@ -21,7 +21,7 @@ public class StaffController {
     @GetMapping("/staff/version-info")
     public Map<String, String> versionInfo() {
         Map<String, String> map = new HashMap<>();
-        map.put("version", "1.2");
+        map.put("version", "1.3");
         return map;
     }
 
