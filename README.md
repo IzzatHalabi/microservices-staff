@@ -1,6 +1,6 @@
 # Microservices Staff Webservice
 
-This repository contains code for a RESTful webservice that I'm currently experimenting with in my free time. The webservice focuses on Staff items, and I plan to add more items in the future.
+This repository contains code for a RESTful webservice using Spring Boot framework that I'm currently experimenting with in my free time. The webservice focuses on Staff items, and I plan to add more items in the future.
 
 ## How to Use This Repository
 
